@@ -33,12 +33,7 @@ body {
   }
   
   
-  
-  /* header */
-  
-  
-  
-  
+    
   #logo {
     float: left;
     width: 250px;
@@ -54,8 +49,6 @@ body {
   }
   
   
-  /* footer */
-  
   footer {
     position: relative;
     top: 50px;
@@ -69,41 +62,15 @@ body {
     border-top: 8px solid #4aaaa5;
   }
   
-  /* sidebar */
-  
-  .sidebar {
-    float: right;
-    padding: 30px;
-    /*margin-bottom: 20px;*/
-    background: #fff;
-    border: 1px solid #ddd;
-  }
-  
-  h2 {
-    padding-bottom: 20px;
-    margin-bottom: 15px;
-    line-height: 22px;
-    border-bottom: 2px solid #eee;
-  }
-  
-  .social {
-    width: 62px;
-    height: 62px;
-    margin-top: 8px;
-    margin-right: 5px;
-  }
-  
   .main-section {
-    float: left;
     width: 100%;
-    max-width: 650px;
+    max-width: 1000px;
     padding: 30px;
-    margin: 0 0 40px;
+    margin: 0 auto;
     background: #fff;
     border: 1px solid #ddd;
   }
   
-  /* portfolio page */
   
   .work {
     position: relative;
